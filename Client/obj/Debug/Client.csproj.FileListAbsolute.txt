@@ -1,0 +1,14 @@
+D:\net\fileTranslate\Client\bin\Debug\Client.exe.config
+D:\net\fileTranslate\Client\bin\Debug\Client.exe
+D:\net\fileTranslate\Client\bin\Debug\Client.pdb
+D:\net\fileTranslate\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\net\fileTranslate\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\net\fileTranslate\Client\obj\Debug\Client.exe
+D:\net\fileTranslate\Client\obj\Debug\Client.pdb
+D:\net\fileTransfer\Client\bin\Debug\Client.exe.config
+D:\net\fileTransfer\Client\bin\Debug\Client.exe
+D:\net\fileTransfer\Client\bin\Debug\Client.pdb
+D:\net\fileTransfer\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\net\fileTransfer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\net\fileTransfer\Client\obj\Debug\Client.exe
+D:\net\fileTransfer\Client\obj\Debug\Client.pdb
